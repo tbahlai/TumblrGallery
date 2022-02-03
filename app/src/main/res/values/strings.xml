@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TumblrGallery</string>
+    <string name="tumblr_gallery_text">Tumblr Gallery</string>
+    <string name="preview_photo_text">Preview Photo</string>
+</resources>
